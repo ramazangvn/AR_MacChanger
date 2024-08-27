@@ -6,7 +6,7 @@ Kali Linux için özelleştirilmiş bir mac changer tool'u.
 
 ## Kullanım
 
-Programı çalıştırmak için aşağıdaki komutu çalıştırın
+Programın testi için aşağıdaki örnek komutu çalıştırabilirsiniz:
 
 ```bash
   python ar_mac_changer.py -i eth0 -m 00:11:22:33:44:66
